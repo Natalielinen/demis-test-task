@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/demis-test-task/static/css/main.5a5e0624.chunk.css",
-    "main.js": "/demis-test-task/static/js/main.b1d8763b.chunk.js",
-    "main.js.map": "/demis-test-task/static/js/main.b1d8763b.chunk.js.map",
+    "main.js": "/demis-test-task/static/js/main.d119094c.chunk.js",
+    "main.js.map": "/demis-test-task/static/js/main.d119094c.chunk.js.map",
     "runtime-main.js": "/demis-test-task/static/js/runtime-main.e92f5705.js",
     "runtime-main.js.map": "/demis-test-task/static/js/runtime-main.e92f5705.js.map",
-    "static/js/2.c37b33e8.chunk.js": "/demis-test-task/static/js/2.c37b33e8.chunk.js",
-    "static/js/2.c37b33e8.chunk.js.map": "/demis-test-task/static/js/2.c37b33e8.chunk.js.map",
+    "static/js/2.cf17006c.chunk.js": "/demis-test-task/static/js/2.cf17006c.chunk.js",
+    "static/js/2.cf17006c.chunk.js.map": "/demis-test-task/static/js/2.cf17006c.chunk.js.map",
     "index.html": "/demis-test-task/index.html",
     "static/css/main.5a5e0624.chunk.css.map": "/demis-test-task/static/css/main.5a5e0624.chunk.css.map",
-    "static/js/2.c37b33e8.chunk.js.LICENSE.txt": "/demis-test-task/static/js/2.c37b33e8.chunk.js.LICENSE.txt"
+    "static/js/2.cf17006c.chunk.js.LICENSE.txt": "/demis-test-task/static/js/2.cf17006c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e92f5705.js",
-    "static/js/2.c37b33e8.chunk.js",
+    "static/js/2.cf17006c.chunk.js",
     "static/css/main.5a5e0624.chunk.css",
-    "static/js/main.b1d8763b.chunk.js"
+    "static/js/main.d119094c.chunk.js"
   ]
 }
