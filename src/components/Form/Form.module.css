@@ -13,8 +13,6 @@
     padding-bottom: 1%;
 }
 
-
-
 .contactForm input {
     width: 100%;
     padding: 10px 5px;
@@ -73,6 +71,7 @@
 }
 
 .userData {
+    width: 60%;
     margin: 0 auto;
     margin-top: 30px;
     border: 2px solid #000000;
@@ -80,8 +79,19 @@
 }
 
 .userData td {
-    padding: 15px;
+    padding: 2%;
     border: 2px solid #000000;
+
+}
+
+@media(max-width: 541px) {
+    .contactForm {
+        width: 90%;
+    }
+
+    .userData {
+        width: 80%;
+    }
 
 }
 

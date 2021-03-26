@@ -1,0 +1,30 @@
+.newsBlock {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.newsBlock img {
+    width: 300px;
+}
+
+.newsBlock p:last-child {
+    margin-left: 2%;
+}
+
+
+ @media(max-width: 1001px){
+    .newsBlock{
+        flex-wrap: wrap;
+    }
+    .newsBlock p:last-child {
+        margin-left: 0;
+    }
+
+    .newsBlock img {
+        width: 100%;
+    }
+
+} 
+

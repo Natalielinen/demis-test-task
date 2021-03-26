@@ -1,6 +1,7 @@
 .previewBlock {
     width: 80%;
     margin: 0 auto;
+    margin-bottom: 3%;
     padding: 2%;
     border-radius: 10px;
     box-shadow: 0 0 10px #000000;
@@ -9,10 +10,41 @@
 .previewBlock div {
     display: flex;
 }
+
+
 .previewBlock img {
     width: 200px;
+    max-height: 150px;
 }
 
 .description {
     margin-left: 1%;
+    text-align: justify;
+    padding: 1%;
+}
+h2 {
+    text-align: center;
+}
+
+.previewBlock .description a {
+    color: #88001b;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.previewBlock .description a:hover {
+    text-decoration: underline;
+    
+}
+
+@media(max-width: 841px){
+    .imagePlace {
+        margin: 0 auto;
+     }
+
+     .previewBlock div {
+        flex-wrap: wrap;
+    }
+    
+
 }
